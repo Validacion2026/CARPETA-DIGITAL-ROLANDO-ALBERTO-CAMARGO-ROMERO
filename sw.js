@@ -1,4 +1,4 @@
-const CACHE_NAME = 'carpeta-virtual-v6';
+const CACHE_NAME = 'carpeta-virtual-v7';
 
 const ARCHIVOS_OFFLINE = [
   './',
